@@ -40,8 +40,10 @@ fi
 ```
 echo "startxfce4" > /home/$USERNAME/.xsession
 chown $USERNAME:$USERNAME /home/$USERNAME/.xsession
+```
 
 # 6. Add xrdp user to ssl-cert group
+```
 adduser xrdp ssl-cert
 ```
 
