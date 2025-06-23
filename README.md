@@ -2,6 +2,10 @@
 ```
 sudo -i
 ```
+# add user 
+```
+adduser
+```
 
 
 # 1. Update system
