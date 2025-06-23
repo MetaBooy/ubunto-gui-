@@ -6,15 +6,18 @@ apt update -y && apt upgrade -y
 ```
 
 # 2. Install XFCE and xRDP
-```apt install xfce4 xfce4-goodies xrdp -y
+```
+apt install xfce4 xfce4-goodies xrdp -y
 ```
 
 # 3. Enable xRDP service
-```systemctl enable --now xrdp
+```
+systemctl enable --now xrdp
 ```
 
 # 4. Create a new user (optional)
-```USERNAME=clouduser
+```
+USERNAME=clouduser
 PASSWORD=Cloud@123
 ```
 
