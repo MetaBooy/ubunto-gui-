@@ -1,11 +1,4 @@
 # Run as root (or with sudo)
-```
-sudo -i
-```
-# add user 
-```
-adduser
-```
 
 
 # 1. Update system
