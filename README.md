@@ -1,4 +1,8 @@
 # Run as root (or with sudo)
+```
+sudo -i
+```
+
 
 # 1. Update system
 ```
